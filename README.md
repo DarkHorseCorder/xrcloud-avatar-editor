@@ -2,6 +2,10 @@
 
 This is an avatar editor used in the XRCLOUD service, a project based on Mozilla Hubs.
 
+Artice
+
+https://medium.com/belivvr-en/open-source-the-xrcloud-mozilla-hub-full-body-avatar-editor-by-belivvr-9396d11687e5
+
 ## Glossary
 
 -   Blueprint: A collection of the avatar's skeleton and the parts added to the skeleton. Here, there are Male/Female blueprints.
